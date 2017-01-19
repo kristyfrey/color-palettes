@@ -1,3 +1,3 @@
 # color-palettes
 
-Custom color palettes for Inkscape.
+Custom color palettes in multiple formats.
